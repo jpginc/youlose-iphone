@@ -2,10 +2,10 @@
 <widget id="com.jpgautomation.youlose" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>You Lose</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        IOS version of YOU LOSE
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="joshua.graham@jpgautomation.com" href="http://jpgautomation.com">
+        Joshua Graham, Chris Ledwich
     </author>
     <feature name="http://api.phonegap.com/1.0/device" />
     <gap:platform name="ios">
